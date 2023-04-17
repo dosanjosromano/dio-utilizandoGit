@@ -1,7 +1,7 @@
 # dio-utilizandoGit
 Repositório de estudos na plataforma Dio
 
-##Cursos finalizados
+## Cursos finalizados
 
 * Trabalhando em Equipes Ágeis;
 
